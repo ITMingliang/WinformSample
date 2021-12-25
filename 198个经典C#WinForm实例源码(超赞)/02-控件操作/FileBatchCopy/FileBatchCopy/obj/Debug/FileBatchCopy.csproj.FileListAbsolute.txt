@@ -1,0 +1,17 @@
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\bin\Debug\FileBatchCopy.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\bin\Debug\FileBatchCopy.pdb
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\obj\Debug\ResolveAssemblyReference.cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.Form1.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.Properties.Resources.resources
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.csproj.GenerateResource.Cache
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.exe
+E:\2008-9月以后的任务\C#范例手册程序\mr\02\016\sj\01\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.pdb
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\bin\Debug\FileBatchCopy.exe
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\bin\Debug\FileBatchCopy.pdb
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.csproj.AssemblyReference.cache
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.Form1.resources
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.Properties.Resources.resources
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.csproj.GenerateResource.cache
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.csproj.CoreCompileInputs.cache
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.exe
+E:\学习文档\Winfrom\198个经典C#WinForm实例源码(超赞)\02-控件操作\FileBatchCopy\FileBatchCopy\obj\Debug\FileBatchCopy.pdb
